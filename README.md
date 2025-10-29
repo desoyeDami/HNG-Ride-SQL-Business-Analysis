@@ -1,4 +1,4 @@
-# HNG Ride - SQL Business Analysis (Stage 2A)
+# HNG Ride - SQL Business Analysis
 
 This project is a comprehensive analysis of a raw, inconsistent dataset from a fictional ride-sharing company, HNG Ride. The primary goal was to perform a complete data cleaning and preparation process using SQL and Python, then answer 8 critical business questions using advanced SQL queries to provide actionable insights for management.
 
